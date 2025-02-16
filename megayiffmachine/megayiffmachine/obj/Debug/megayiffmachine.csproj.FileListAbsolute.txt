@@ -1,0 +1,9 @@
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\megayiffmachine\megayiffmachine\bin\Debug\megayiffmachine.exe
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\megayiffmachine\megayiffmachine\bin\Debug\megayiffmachine.pdb
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\megayiffmachine\megayiffmachine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\megayiffmachine\megayiffmachine\obj\Debug\megayiffmachine.Form1.resources
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\megayiffmachine\megayiffmachine\obj\Debug\megayiffmachine.Properties.Resources.resources
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\megayiffmachine\megayiffmachine\obj\Debug\megayiffmachine.csproj.GenerateResource.Cache
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\megayiffmachine\megayiffmachine\obj\Debug\megayiffmachine.exe
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\megayiffmachine\megayiffmachine\obj\Debug\megayiffmachine.pdb
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\megayiffmachine\megayiffmachine\obj\Debug\megayiffmachine.ABOUT.resources
