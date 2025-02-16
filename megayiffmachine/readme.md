@@ -2,3 +2,5 @@
 
 This the YIFFING MACHINE has 2 filters you can modify,or with anime or with furry,the indexes are simple
 it chooses randomly,the issue is that microsoft detects its a virus because of the "getdc(NULL)"
+
+It was made for a specific friend.. lets call it rossi
