@@ -1,0 +1,11 @@
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\epic17\epic17\bin\Debug\epic17.exe
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\epic17\epic17\bin\Debug\epic17.pdb
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\epic17\epic17\obj\Debug\epic17.Form1.resources
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\epic17\epic17\obj\Debug\epic17.Properties.Resources.resources
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\epic17\epic17\obj\Debug\epic17.csproj.GenerateResource.Cache
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\epic17\epic17\obj\Debug\epic17.exe
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\epic17\epic17\obj\Debug\epic17.pdb
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\epic17\epic17\obj\Debug\epic17.csprojAssemblyReference.cache
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\epic17\epic17\obj\Debug\epic17.csproj.CoreCompileInputs.cache
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\epic17\epic17\bin\Debug\epic17.exe.config
+C:\Users\Saladino\Documents\Visual Studio 2008\Projects\epic17\epic17\obj\Debug\epic17.SPLASH.resources
